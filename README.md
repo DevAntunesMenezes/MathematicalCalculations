@@ -1,4 +1,4 @@
-<h1>Mathematical Calculations</h1>h1>
+<h1>Mathematical Calculations</h1>
 <p>Este repositório irá conter uma coleção de códigos para realizar cálculos matemáticos básicos e avançados.</p>
 
 <h2>Funcionalidades</h2>
